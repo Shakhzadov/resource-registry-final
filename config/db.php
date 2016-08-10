@@ -3,7 +3,7 @@ return [
     'class' => 'yii\db\Connection',
     'dsn' => 'mysql:host=localhost;dbname=resource_registry',
     'username' => 'root',
-    'password' => '1slovn',
+    'password' => '7160722',
     'charset' => 'utf8',
 ];
 // Jenkins
